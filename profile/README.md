@@ -1,4 +1,4 @@
-# 🏢 bacnet-js
+# 🏢 BACnet JS
 
 Welcome to the `bacnet-js` organization — a modern, open-source suite of tools for working with the **BACnet** protocol in Node.js. Whether you're building automation tools, testing building management systems, or emulating devices, `bacnet-js` provides a modular, type-safe, and developer-friendly ecosystem.
 
